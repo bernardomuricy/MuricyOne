@@ -3,6 +3,6 @@
 		<title>Testing Git Hut...</title>
 	</head>
 	<body>
-		Yo! This is a test...
+		Yo! This is a test... But with a second commit!!!!
 	</body>
 </html>
