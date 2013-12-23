@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Testing Git Hut...</title>
+	</head>
+	<body>
+		Yo! This is a test...
+	</body>
+</html>
